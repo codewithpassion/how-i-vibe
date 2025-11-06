@@ -9,8 +9,6 @@ as a source, use the directory `template`. analyse the existing source code stru
 Create a detailed plan reflecting the implementation of each phase and task. present it to me, before we start the implementation.
 
 
-ultrathink
-
 
 # Implementation Prompt for one Phase and its Tasks
 ---
@@ -20,4 +18,3 @@ then use it to Implement the tasks for `Phase 1` in @01-manual/results/phases/ a
 
 as a source, use the directory `template`. analyse the existing source code structure and implement it in that dirctory. Read @template/CLAUDE.md for more context.
 
-ultrathink

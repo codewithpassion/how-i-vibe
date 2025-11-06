@@ -2,4 +2,3 @@ Read @01-manual/prompts/resources/01-prp.writer.md then use it to create a PRP f
 
 Write the PRP in markdown format to @01-manual/results/prp.md
 
-ultrathink

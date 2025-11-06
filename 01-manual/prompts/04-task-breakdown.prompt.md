@@ -7,5 +7,3 @@ This is the tech stack @01-manual/results/tech-stack.md.
 and this is the existing codebase in `template`.
 
 Write the tasks into markdown format to @01-manual/results/tasks/ as individual files.
-
-ultrathink
