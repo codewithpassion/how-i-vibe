@@ -1,2 +1,5 @@
 results/
 01-manual/results/*
+01-manual/results_*/*
+
+template_*
